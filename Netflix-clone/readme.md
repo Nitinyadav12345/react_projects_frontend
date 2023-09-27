@@ -2,7 +2,7 @@
 
 # Netflix and Chill
 
-A Netflix clone app is a mobile or web application that replicates the  features and functionalities of the popular  Netflix. This app is responsive in Nature 
+A Netflix clone app is a web application that replicates the  features and functionalities of the popular  Netflix. This app is responsive in Nature 
 
 ## Links to site
 
