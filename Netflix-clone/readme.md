@@ -1,7 +1,8 @@
 
 
 # Netflix and Chill
-this project is created using the react js and it is laptop friendly.
+
+A Netflix clone app is a mobile or web application that replicates the  features and functionalities of the popular  Netflix. This app is responsive in Nature 
 
 ## Links to site
 
