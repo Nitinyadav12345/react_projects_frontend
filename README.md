@@ -9,9 +9,9 @@ Netflix clone application [Live](https://netflix-clone-18d11.web.app/).
 
 weather forecast first [Live](https://weatherforecastmeet.netlify.app/).
 
-This site was built using [Live](https://astounding-parfait-ee811a.netlify.app/).
+todolist [Live](https://astounding-parfait-ee811a.netlify.app/).
 
-This site was built using [Live](https://weatherreportsny.netlify.app/).
+weather forecast sec [Live](https://weatherreportsny.netlify.app/).
 
 
 
