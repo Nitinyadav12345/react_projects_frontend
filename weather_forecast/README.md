@@ -4,7 +4,7 @@ this project is created using the react js and it is laptop friendly.
 
 ## Links to site
 
-This site was built using [weatherreportsny](https://weatherreportsny.netlify.app/).
+weatherforecast web application [weatherreportsny](https://weatherreportsny.netlify.app/).
 
 ## Tech Stack
 
