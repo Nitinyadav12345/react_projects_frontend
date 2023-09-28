@@ -4,7 +4,7 @@ A todolist  app is a  web application that store your todos. This app is respons
 
 ## Links to site
 
-This site was built using [todolist](https://astounding-parfait-ee811a.netlify.app/).
+todolist app [todolist](https://astounding-parfait-ee811a.netlify.app/).
 
 ## Tech Stack
 
